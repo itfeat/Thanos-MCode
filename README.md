@@ -7,7 +7,7 @@
 #### 1.1.1 下载
 
 1. [点我进入机器码下载页面](https://github.com/itfeat/Thanos-MCode/releases)
-2. 选择 **Thanos-MCode-win-1.0.0.exe **
+2. 选择 **Thanos-MCode-win-1.0.0.exe**
 
 #### 1.1.2 安装
 
